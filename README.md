@@ -1,4 +1,4 @@
-# Spelify (Practise Project)
+# Spelify
 
 Free Text Corrector (14 chars max)
 **Super lightweight grammar & spelling checker** for very short text (≤ 14 characters)
@@ -15,8 +15,11 @@ Powered by the free **LanguageTool public API** — works in **many languages**.
 - Proper **429 Too Many Requests** handling
 - Built with **FastAPI** + **HTTpx** + vanilla JS
 
-## Live Demo
-(Upcoming)
+## Video Demo
+
+https://github.com/user-attachments/assets/96223d79-0316-4ac4-a4ed-68e45993b2f8
+
+
 
 
 ## How to Run Locally
